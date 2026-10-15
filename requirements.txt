@@ -1,5 +1,10 @@
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
-# or
+
+# Optional alternatives if you switch frameworks:
 # flask==3.0.3
 # gunicorn==22.0.0
+
+# Add testing dependencies:
+pytest==8.3.3
+
